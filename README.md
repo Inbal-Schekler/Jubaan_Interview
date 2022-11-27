@@ -1,4 +1,4 @@
-# Jubaan_Interview
+# Jubaan Interview
 
 This repository contains image classification assignment, submitted by Inbal Schekler.
 
