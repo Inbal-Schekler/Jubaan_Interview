@@ -10,8 +10,9 @@ This code has been implemented in python language using Keras libarary with tens
 
 ## Model results
 The best model include data augmentation, 2 convolution layers, maxpooling and dropout.
+
 The results are: 
-Test accuracy: 98.1%
-Recall = 0.59
-Precision = 0.51
-AUC = 0.792
+- Test accuracy: 98.1%
+- Recall = 0.59
+- Precision = 0.51
+- AUC = 0.792
