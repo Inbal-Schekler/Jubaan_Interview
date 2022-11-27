@@ -9,7 +9,7 @@ This code has been implemented in python language using Keras libarary with tens
 - Keras - tensorflow backend
 
 ## Model results
-The best model include data augmentation, 2 convolution layers, maxpooling and dropout.
+The best model includes data augmentation, 2 convolution layers, maxpooling and dropout.
 
 The results are: 
 - Test accuracy: 98.1%
