@@ -16,3 +16,6 @@ The results are:
 - Recall = 0.59
 - Precision = 0.51
 - AUC = 0.792
+
+
+https://nbviewer.org/github/Inbal-Schekler/Jubaan_Interview/blob/main/Interview_assignment_Inbal_Schekler.ipynb
